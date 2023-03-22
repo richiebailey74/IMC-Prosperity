@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from datamodel import *
+from src.datamodel import *
 
 
 def simulate(round: int, day: int, trader):
